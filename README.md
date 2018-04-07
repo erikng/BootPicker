@@ -1,5 +1,5 @@
 # BootPicker
-BootPicker is a PSD and PXM file for creating OS X EFI documentation. With BootPicker you can quickly create a high quality documentation asset in a few minutes.
+BootPicker is a PSD and PXM file for creating macOS EFI documentation. With BootPicker you can quickly create a high quality documentation asset in a few minutes.
 
 ![BootPicker Example](/screenshot.png)
 
